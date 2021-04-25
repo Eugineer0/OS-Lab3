@@ -42,7 +42,4 @@ public class Connection extends Thread{
 
         return responseContent.toString();
     }
-
-
-
 }
